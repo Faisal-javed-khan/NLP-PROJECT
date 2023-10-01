@@ -1,6 +1,6 @@
 # NLP-PROJECT
 
-<h1>Basic Text Preprocessing Steps:</h1>
+<h2>Basic Text Preprocessing Steps:</h2>
 1.	Lowercasing
 2.	Tokenization
 •	Document tokenization
@@ -10,7 +10,7 @@
 4.	Removing Stopwords
 5.	Stemming
 6.	Lemmatization
-<h1>Advanced Text Preprocessing Steps:</h1>
+<h2>Advanced Text Preprocessing Steps:</h2>
 1.	Part-of-Speech Tagging
 2.	Named Entity Recognition
 3.	Spell Checking
